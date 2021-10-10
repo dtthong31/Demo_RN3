@@ -18,6 +18,12 @@ export default class DemoStyle extends Component {
                 <View style={{ marginTop: 10, borderRadius: 10, backgroundColor: '#F4B940', justifyContent: 'center', alignItems: 'center', height: 150 }}>
                     <Text style={{fontWeight:'900',color:'black'}}>Yellow: #F4B940 </Text>
                 </View>
+                <View style={{ marginTop: 10, borderRadius: 10, backgroundColor: '#F4B940', justifyContent: 'center', alignItems: 'center', height: 150 }}>
+                    <Text style={{fontWeight:'900',color:'black'}}>Yellow: #F4B940 </Text>
+                </View>
+                <View style={{ marginTop: 10, borderRadius: 10, backgroundColor: '#F4B940', justifyContent: 'center', alignItems: 'center', height: 150 }}>
+                    <Text style={{fontWeight:'900',color:'black'}}>Yellow: #F4B940 </Text>
+                </View>
             </View>
         );
     }
